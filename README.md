@@ -1,3 +1,8 @@
+Please click this link for updated version: 
+
+https://github.com/Wanggcong/SolutionSimilarityLearning.git
+
+
 Some related absolute paths could be invalid. The code is simple. It could take too much time to create a solution set (e.g., 5000 trained models), we strongly suggest the reviewers focus on these files:
 
 
