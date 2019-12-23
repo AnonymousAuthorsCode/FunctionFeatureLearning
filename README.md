@@ -1,4 +1,4 @@
-#New!
+# New!
 Please click this link for updated version: 
 
 https://github.com/Wanggcong/SolutionSimilarityLearning.git
