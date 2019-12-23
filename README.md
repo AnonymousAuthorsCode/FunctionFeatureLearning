@@ -20,15 +20,15 @@ Some related absolute paths could be invalid. The code is simple. It could take 
 #### --model/mlp.py 
 
 ### B.Solution classification/retrieval, includes chain alignment rule and linear projection:
--- train_sup.py
---./model/meta_mdoel_cnn.py
---./model/meta_mdoel_mlp.py
---./model/meta_mdoel_rnn.py
+#### -- train_sup.py
+#### --./model/meta_mdoel_cnn.py
+#### --./model/meta_mdoel_mlp.py
+#### --./model/meta_mdoel_rnn.py
 
 ### C.How to read weights as “training data”:
---datasets/cifar100_meta.py
---datasets/name_data.py
---tiny_ImageNet.py
+#### --datasets/cifar100_meta.py
+#### --datasets/name_data.py
+#### --tiny_ImageNet.py
 
 
 ### Related scripts are at ./scripts
