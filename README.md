@@ -14,10 +14,10 @@ Some related absolute paths could be invalid. The code is simple. It could take 
 
 
 ### A.Solution set generation:
---train.py
---model/mlp.py
---model/vgg_like.py
---model/mlp.py 
+#### --train.py
+#### --model/mlp.py
+#### --model/vgg_like.py
+#### --model/mlp.py 
 
 ### B.Solution classification/retrieval, includes chain alignment rule and linear projection:
 -- train_sup.py
